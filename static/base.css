@@ -76,3 +76,13 @@
         font-size: 13px;
     }
 }
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
