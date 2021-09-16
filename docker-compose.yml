@@ -18,7 +18,7 @@ services:
       - gis_2ban_network
     volumes:
       - gis_2ban_media:/home/gis_2ban_1/media/
-      - gis_2ban_static:/home/gis_2ban_1/static/
+      - gis_2ban_static:/home/gis_2ban_1/staticfiles/
 
   mariadb:
     image: mariadb:10.5
